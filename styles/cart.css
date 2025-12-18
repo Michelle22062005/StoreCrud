@@ -205,9 +205,9 @@ body{
     border-radius: 8.66px;
     
 }
-.cart-img1{background-image: url(./imagenes/ropa14.png);background-size: cover;background-position: center;}
-.cart-img2{background-image: url(./imagenes/ropa2.png);background-size: cover;background-position: center;}
-.cart-img3{background-image: url(./imagenes/ropa3.png);background-size: cover;background-position: center;}
+.cart-img1{background-image: url(../imagenes/ropa14.png);background-size: cover;background-position: center;}
+.cart-img2{background-image: url(../imagenes/ropa2.png);background-size: cover;background-position: center;}
+.cart-img3{background-image: url(../imagenes/ropa3.png);background-size: cover;background-position: center;}
 .cart-info{
     width: 527px;
     height: 124px;
