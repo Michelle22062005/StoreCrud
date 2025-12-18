@@ -193,21 +193,21 @@ body{
 }
 .item-prod:first-child{
     border: 1px solid var(--black);
-    background-image: url(/imagenes/ropa18.png);
+    background-image: url(./imagenes/ropa18.png);
 }
 .item-prod:nth-child(2){
     height: 168px;
     top: 397px;
     left: 100px;
     border-radius: 20px;
-    background-image: url(/imagenes/ropa19.png);
+    background-image: url(./imagenes/ropa19.png);
 }
 .item-prod:nth-child(3){
     height: 167px;
     top: 579px;
     left: 100px;
     border-radius: 20px;
-    background-image: url(/imagenes/ropa20.png);
+    background-image: url(./imagenes/ropa20.png);
 }
 .product{
     width: 444px;
@@ -215,7 +215,7 @@ body{
     top: 216;
     left: 266px;
     border-radius: 20px;
-    background-image: url(/imagenes/ropa21.png);background-size: cover;
+    background-image: url(./imagenes/ropa21.png);background-size: cover;
     background-position: center;
 }
 .product-info{
@@ -449,7 +449,7 @@ body{
 .imagen1{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa14.png);
+    background-image: url(./imagenes/ropa14.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -458,7 +458,7 @@ body{
 .imagen2{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa15.png);
+    background-image: url(./imagenes/ropa15.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -467,7 +467,7 @@ body{
 .imagen3{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa16.png);
+    background-image: url(./imagenes/ropa16.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -476,7 +476,7 @@ body{
 .imagen4{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa17.png);
+    background-image: url(./imagenes/ropa17.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

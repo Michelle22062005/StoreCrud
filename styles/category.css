@@ -326,7 +326,7 @@ body{
 .imagen1{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa14.png);
+    background-image: url(./imagenes/ropa14.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -335,7 +335,7 @@ body{
 .imagen2{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa16.png);
+    background-image: url(./imagenes/ropa16.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -344,7 +344,7 @@ body{
 .imagen3{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa17.png);
+    background-image: url(./imagenes/ropa17.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -353,7 +353,7 @@ body{
 .imagen4{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa3.png);
+    background-image: url(./imagenes/ropa3.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -362,7 +362,7 @@ body{
 .imagen5{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa2.png);
+    background-image: url(./imagenes/ropa2.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -371,7 +371,7 @@ body{
 .imagen6{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa4.png);
+    background-image: url(./imagenes/ropa4.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -380,7 +380,7 @@ body{
 .imagen7{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa5.png);
+    background-image: url(./imagenes/ropa5.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -389,7 +389,7 @@ body{
 .imagen8{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa6.png);
+    background-image: url(./imagenes/ropa6.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -398,7 +398,7 @@ body{
 .imagen9{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa7.png);
+    background-image: url(./imagenes/ropa7.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
