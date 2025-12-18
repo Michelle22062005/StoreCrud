@@ -196,7 +196,7 @@ body{
 .main-start-imagen{
     width: 620px;
     height: 663px;
-    background-image: url("./imagenes/header-fondo.jpg");
+    background-image: url("/imagenes/header-fondo.jpg");
     background-size: cover;
     background-position: top;
     
