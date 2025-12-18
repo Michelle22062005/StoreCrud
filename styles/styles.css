@@ -104,7 +104,7 @@ body{
     color: var(--text-muted);
    font-family: var(--font-text);font-size: 16px;
 }
-.buscardor ::placeholder{
+.buscardor::placeholder{
     padding-left: 52px;
 }
 
@@ -196,7 +196,7 @@ body{
 .main-start-imagen{
     width: 620px;
     height: 663px;
-    background-image: url("/imagenes/header-fondo.jpg");
+    background-image: url("./imagenes/header-fondo.jpg");
     background-size: cover;
     background-position: top;
     
@@ -207,7 +207,7 @@ body{
     position: relative;
     width: 56px;
     height: 56px;
-    background-image: url(/imagenes/Vector.png);background-size: contain;
+    background-image: url(./imagenes/Vector.png);background-size: contain;
 
 }
 .start1{
@@ -295,7 +295,7 @@ body{
 .imagen1{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa1.png);
+    background-image: url(./imagenes/ropa1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -304,7 +304,7 @@ body{
 .imagen2{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa2.png);
+    background-image: url(./imagenes/ropa2.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -313,7 +313,7 @@ body{
 .imagen3{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa3.png);
+    background-image: url(./imagenes/ropa3.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -322,7 +322,7 @@ body{
 .imagen4{
     width: 295px;
     height: 298px;
-    background-image: url(/imagenes/ropa4.png);
+    background-image: url(./imagenes/ropa4.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
